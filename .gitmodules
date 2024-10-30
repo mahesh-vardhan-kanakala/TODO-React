@@ -1,0 +1,3 @@
+[submodule "src/app"]
+	path = src/app
+	url = https://github.com/mahesh-vardhan-kanakala/Todo-React-App
